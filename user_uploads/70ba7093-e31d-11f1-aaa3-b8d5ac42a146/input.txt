@@ -1,0 +1,9 @@
+file 'WhatsApp_Image_2025-06-24_at_23.37.32_6841dc1f.jpg'
+duration 1
+file 'WhatsApp_Image_2025-06-24_at_23.37.31_76fbd9fd.jpg'
+duration 1
+file 'WhatsApp_Image_2025-06-24_at_23.37.31_29771469.jpg'
+duration 1
+file 'WhatsApp_Image_2025-06-24_at_23.37.32_35008e40.jpg'
+duration 1
+file 'WhatsApp_Image_2025-06-24_at_23.37.32_35008e40.jpg'
